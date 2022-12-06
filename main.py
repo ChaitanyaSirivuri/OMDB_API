@@ -1,5 +1,5 @@
 import json as j
-import equests as r
+import requests as r
 from urllib.request import urlretrieve
 from PIL import Image
 import api
